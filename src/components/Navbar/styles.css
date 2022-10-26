@@ -1,0 +1,12 @@
+.main-nav {
+  padding-left: 40px;
+  min-height: 62px;
+  background-color: var(--bs-primary);
+}
+
+.nav-logo-text h4 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+  margin: 0;
+}
